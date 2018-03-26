@@ -1,7 +1,7 @@
 {
   "name": "react-qiniu-uploader",
   "version": "1.0.1",
-  "description": "",
+  "description": "上传文件至七牛服务器 react-qiniu的向上兼容版本解决方案",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
